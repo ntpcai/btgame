@@ -22,7 +22,7 @@ function App() {
 
   // Mask question text with dashes
   const maskQuestion = (question) => {
-    return '—'.repeat(35);
+    return '—'.repeat(23);
 //    return '—'.repeat(question.length);
   };
 
