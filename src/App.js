@@ -314,7 +314,7 @@ function App() {
               className="answer-button" 
               onClick={handleAnswerPress}
             >
-              回答
+              答案
             </button>
           </div>
         )}
